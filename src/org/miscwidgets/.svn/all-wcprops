@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/17/trunk/android-misc-widgets/src/org/miscwidgets
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12/trunk/android-misc-widgets/src/org/miscwidgets/Test.java
+END
+TestPanels.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/android-misc-widgets/src/org/miscwidgets/TestPanels.java
+END
+TestTheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5/trunk/android-misc-widgets/src/org/miscwidgets/TestTheme.java
+END
+TestSmoothButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12/trunk/android-misc-widgets/src/org/miscwidgets/TestSmoothButton.java
+END
+TestInterpolators.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/android-misc-widgets/src/org/miscwidgets/TestInterpolators.java
+END
+TestVirtualKeyboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5/trunk/android-misc-widgets/src/org/miscwidgets/TestVirtualKeyboard.java
+END
+TestSwitcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/android-misc-widgets/src/org/miscwidgets/TestSwitcher.java
+END
+PlotView.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/android-misc-widgets/src/org/miscwidgets/PlotView.java
+END
+TestCustomTitle.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8/trunk/android-misc-widgets/src/org/miscwidgets/TestCustomTitle.java
+END
